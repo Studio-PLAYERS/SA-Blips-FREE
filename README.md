@@ -25,3 +25,5 @@ Config.Locations = {
     }, ]]
 }
 ```
+
+Newer and better version soon on TEBEX https://studio-players.tebex.io/
